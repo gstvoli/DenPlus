@@ -1,19 +1,18 @@
-import { Input as NBInput, IInputProps, Fade} from "native-base"
+import { Input as NBInput, IInputProps} from "native-base"
 
 export function Input({...rest}: IInputProps){
   return(
     <NBInput 
-      bg="gray.700"
+      bg="gray.100"
       h={14}
       size="md"
-      borderWidth={0}
+      borderWidth={1}
       fontSize="md"
       fontFamily="body"
-      color="lightBlue.400"
-      placeholderTextColor="gray.300"
+      placeholderTextColor="white.100"
       _focus={{
         borderWidth: 1,
-        borderColor: "green.500",
+        borderColor: "cGray.100",
         bg: "gray.700"
       }}
       {...rest}

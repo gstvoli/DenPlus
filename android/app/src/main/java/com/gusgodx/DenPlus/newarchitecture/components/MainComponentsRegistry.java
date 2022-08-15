@@ -1,4 +1,4 @@
-package com.denplus.newarchitecture.components;
+package com.gusgodx.DenPlus.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

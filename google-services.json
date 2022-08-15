@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "890984810165",
+    "project_id": "denplus-4a713",
+    "storage_bucket": "denplus-4a713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890984810165:android:81bbebf32efd3ef7cde0fc",
+        "android_client_info": {
+          "package_name": "com.denplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890984810165-rm6jeosdlvnav0nmk08se70pbg433ibi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSBXk__679rohkYBG5BKW9pHkDWWceMb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890984810165-rm6jeosdlvnav0nmk08se70pbg433ibi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -22,7 +22,21 @@ export const THEME = extendTheme({
       200: '#C4C4CC',
       100: '#E1E1E6'
     },
-    white: '#FFFFFF'
+    white: {
+      200: '#F0EABE',
+      100: '#FFFFFF',
+    }      ,
+    blue: {
+      900: '#03045e',
+      800: '#023e8a',
+      700: '#0077b6',
+      600: '#0096c7',
+      500: '#00b4d8',
+      400: '#48cae4',
+      300: '#90e0ef',
+      200: '#ade8f4',
+      100: '#caf0f8'
+    }
   },
   fonts: {
     heading: 'Roboto_700Bold',

@@ -1,4 +1,4 @@
-package com.denplus.newarchitecture;
+package com.gusgodx.DenPlus.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -20,9 +20,9 @@ import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.denplus.BuildConfig;
-import com.denplus.newarchitecture.components.MainComponentsRegistry;
-import com.denplus.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.gusgodx.DenPlus.BuildConfig;
+import com.gusgodx.DenPlus.newarchitecture.components.MainComponentsRegistry;
+import com.gusgodx.DenPlus.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

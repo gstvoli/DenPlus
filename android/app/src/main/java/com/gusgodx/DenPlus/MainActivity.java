@@ -1,4 +1,4 @@
-package com.denplus;
+package com.gusgodx.DenPlus;
 
 import android.os.Build;
 import android.os.Bundle;

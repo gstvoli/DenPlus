@@ -7,11 +7,11 @@ type Props = IButtonProps & {
 export function Button({title, ...rest}: Props){
   return (
     <NBButton 
-      bg="green.800"
+      bg="green.500"
       h={14}
       fontSize="sm"
       rounded="sm"
-      _pressed={{ bg: "green.600" }}
+      _pressed={{ bg: "green.700" }}
       {...rest}
       >
         <Heading color="white" fontSize="sm">{title}
